@@ -1,1 +1,1 @@
-# NY_Weather_AJAX
+# New York Weather AJAX Request
